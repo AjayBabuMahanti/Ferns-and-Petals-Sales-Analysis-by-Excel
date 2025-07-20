@@ -91,14 +91,6 @@ The dataset includes:
 
 ---
 
-## 🧑‍💻 Author
-
-**Ajay Babu Mahanti**  
-Excel Analyst | Data Enthusiast  
-📧 [Add your email/LinkedIn if desired]
-
----
-
 ## 📌 Tags
 
 `#ExcelDashboard` `#SalesAnalysis` `#PivotTables` `#PowerQuery` `#FernsAndPetals` `#DataVisualization` `#ETL`
